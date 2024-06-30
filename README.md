@@ -27,7 +27,7 @@ We utilize generative AI to analyze customer financial data and market trends. O
 ### Architecture
 Our solution's architecture is designed to handle increasing amounts of data and user interactions, ensuring scalability and efficiency.
 
-![Architecture Flowchart](https://arch.com/600x400.png?text=Solution+Architecture)
+![Architecture Flowchart](https://files.oaiusercontent.com/file-HvV0y6WfI4TgBtFxKRh2k8Tm?se=2024-06-30T19%3A44%3A17Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D82deef04-261b-45a1-a511-72c14f34fca0&sig=GDLwB67SRUyw2fBI8c5X4HjR2j9sPsrd5Rtj2EWqWio%3D)
 
 ## Key Differentiators & Adoption Plan
 ### Key Differentiators
